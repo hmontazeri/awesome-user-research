@@ -315,4 +315,5 @@ There are many ways to help: suggesting a tool, improving a description, reporti
 
 Give a ⭐️ if this project helped you!
 
+
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/samber?style=for-the-badge)](https://github.com/sponsors/samber)
